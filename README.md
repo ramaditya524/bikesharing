@@ -5,7 +5,7 @@ We are helping Citi Bike create a presentation to pitch to investors that a bike
 
 ## Results
 
-![Tableau Image](/part1/png)
+![Tableau Image](/part1.png)
 
 ## Summary
 
