@@ -3,6 +3,8 @@
 ## Overview
 We are helping Citi Bike create a presentation to pitch to investors that a bike sharing program in Des Moines is a good business idea. We are using Citi Bike bikesharing data from New York city to create a presuasive story that will satisfy investors about the plausibility of a successfull business in Des Moines.
 
+The link to the Tableau story prepared for this analysis is: ![Tableau story](https://public.tableau.com/app/profile/rama.aditya/viz/NYCBikechallenge/Story1)
+
 ## Results
 We have created a few visualization to solidy the pitch with analysis on bike trips.
 
